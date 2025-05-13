@@ -7,15 +7,11 @@
 Hello friends, 
 
 
-
-In the previous notebook, I have discussed [Time Series Analysis in Python](https://www.kaggle.com/prashant111/complete-guide-on-time-series-analysis-in-python). 
 In this notebook, I will discuss **ARIMA Model for time series forecasting**. ARIMA model is used to forecast a time series using the series past values. In this notebokk, we build an **optimal ARIMA model** and extend it to **Seasonal ARIMA (SARIMA)** and **SARIMAX models**. We will also see how to build autoarima models in python.
 
 
 So, let's get started.
 
-
-### **I hope you find this notebook useful and your <font color="red"><b>UPVOTES</b></font> keep me motivated.**
 
 
 <a class="anchor" id="0.1"></a>
@@ -48,8 +44,6 @@ So, let's get started.
 - A **Time Series** is defined as a series of data points recorded at different time intervals. The time order can be daily, monthly, or even yearly.
 
 - Time Series forecasting is the process of using a statistical model to predict future values of a time series based on past results.
-
-- We have discussed various aspects of **Time Series Forecasting** in the previous notebook - [Complete Guide to Time Series Analysis in Python](https://www.kaggle.com/prashant111/complete-guide-on-time-series-analysis-in-python).
 
 - Forecasting is the step where we want to predict the future values the series is going to take. Forecasting a time series is often of tremendous commercial value.
 
